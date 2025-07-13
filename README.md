@@ -10,12 +10,13 @@
 
 <h3 align="left">🛠️ Technologies I use:</h3>
 <p align="left">
+<p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -26,8 +27,8 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png"
     alt="ROS2"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -38,8 +39,8 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
     alt="pytorch"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -50,8 +51,8 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
     alt="linux"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -62,8 +63,8 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
     alt="bash"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -74,8 +75,8 @@
   <img
     src="https://www.svgrepo.com/show/331370/docker.svg"
     alt="docker"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -86,8 +87,8 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
     alt="opencv"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -98,8 +99,8 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -110,8 +111,8 @@
   <img
     src="https://www.svgrepo.com/show/305763/autodesk.svg"
     alt="inventor"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a 
@@ -122,8 +123,8 @@
   <img
     src="https://www.svgrepo.com/show/373541/cuda.svg"
     alt="cuda"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 <a
@@ -134,8 +135,8 @@
   <img
     src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg"
     alt="scikit-learn"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
   <a
@@ -146,12 +147,12 @@
   <img
     src="https://icon.icepanel.io/Technology/svg/Gazebo.svg"
     alt="gazebo"
-    width="70"
-    height="70"
+    width="50"
+    height="50"
   />
 </a>
 
 <p align="center">
-  <img src="add/pomp.gif" alt="Robot waving" width="500" style="display:inline-block; margin-right:10px;" />
-  <img src="add/mach.gif" alt="Robot waving" width="500" style="display:inline-block;" />
+  <img src="add/pomp.gif" alt="Robot waving" width="300" style="display:inline-block; margin-right:10px;" />
+  <img src="add/mach.gif" alt="Robot waving" width="300" style="display:inline-block;" />
 </p>
