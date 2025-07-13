@@ -1,16 +1,159 @@
-## Hi there 👋
+<h1 align="center">WELCOME TO MY GITHUB</h1>
 
-<!--
-**KsaweryAiR/KsaweryAiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-size: 60px;">
+  <h3 align="center">🤖 Feel at home — here you'll find projects in <strong>robotics</strong> and <strong>artificial intelligence</strong>.</h3>
 
-Here are some ideas to get you started:
+</p>
+<h3 align="left">🛠️ Technologies I use:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://docs.ros.org/en/humble/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png"
+    alt="ROS2"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://pytorch.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
+    alt="pytorch"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://www.linux.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
+    alt="linux"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://www.gnu.org/software/bash/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
+    alt="bash"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://www.docker.com/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://www.svgrepo.com/show/331370/docker.svg"
+    alt="docker"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://opencv.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
+    alt="opencv"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://isocpp.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="cplusplus"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://www.autodesk.com/products/inventor/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://www.svgrepo.com/show/305763/autodesk.svg"
+    alt="inventor"
+    width="70"
+    height="70"
+  />
+</a>
+<a 
+  href="https://developer.nvidia.com/cuda-zone"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://www.svgrepo.com/show/373541/cuda.svg"
+    alt="cuda"
+    width="70"
+    height="70"
+  />
+</a>
+<a
+  href="https://scikit-learn.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg"
+    alt="scikit-learn"
+    width="70"
+    height="70"
+  />
+</a>
+  <a
+  href="https://gazebosim.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://icon.icepanel.io/Technology/svg/Gazebo.svg"
+    alt="gazebo"
+    width="70"
+    height="70"
+  />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Bachelor of Engineering and Master degree in Automation and Robotics** 
+- 🤖 **Specialization in Robotics and Autonomous Systems, from the Poznan University of Technology**
+
+
+<img
+align="right"
+alt="Coding"
+width="400"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhcmJyanozN2pzcjNrbmo0YTQzazlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
