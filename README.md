@@ -2,8 +2,12 @@
 
 <p align="center" style="font-size: 60px;">
   <h3 align="center">🤖 Feel at home — here you'll find projects in <strong>robotics</strong> and <strong>artificial intelligence</strong>.</h3>
+  
+- 🎓 **Bachelor of Engineering and Master degree in Automation and Robotics** 
+- 🤖 **Specialization in Robotics and Autonomous Systems, from the Poznan University of Technology**
+  
+---
 
-</p>
 <h3 align="left">🛠️ Technologies I use:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -147,13 +151,7 @@
   />
 </a>
 
-- 🎓 **Bachelor of Engineering and Master degree in Automation and Robotics** 
-- 🤖 **Specialization in Robotics and Autonomous Systems, from the Poznan University of Technology**
-
-
-<img
-align="right"
-alt="Coding"
-width="400"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5eDJxcXpyc25zYXNncHlhcmJyanozN2pzcjNrbmo0YTQzazlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+<p align="center">
+  <img src="add/pomp.gif" alt="Robot waving" width="500" style="display:inline-block; margin-right:10px;" />
+  <img src="add/mach.gif" alt="Robot waving" width="500" style="display:inline-block;" />
+</p>
