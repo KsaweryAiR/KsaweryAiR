@@ -153,6 +153,6 @@
 </a>
 
 <p align="center">
-  <img src="add/pomp.gif" alt="Robot waving" width="350" style="display:inline-block; margin-right:10px;" />
-  <img src="add/mach.gif" alt="Robot waving" width="350" style="display:inline-block;" />
+  <img src="add/pomp.gif" alt="Robot waving" width="400" style="display:inline-block; margin-right:10px;" />
+  <img src="add/mach.gif" alt="Robot waving" width="400" style="display:inline-block;" />
 </p>
