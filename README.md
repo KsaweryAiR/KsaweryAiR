@@ -25,7 +25,7 @@
   rel="noreferrer"
 >
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"
     alt="ROS2"
     width="60"
     height="60"
